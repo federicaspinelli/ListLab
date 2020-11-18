@@ -124,6 +124,18 @@ ul.breadcrumb li a:hover {
 	background-color: #e9ecef;;
 }
 
+.text-main {
+	padding: 1% 10%;
+	text-align: justify;
+	font-size: 14pt;
+	line-height: 2;
+}
+
+.text-main h1{
+	padding-bottom: 2%;
+	font-size:36pt;
+}
+
 /*
  * Footer
  */
