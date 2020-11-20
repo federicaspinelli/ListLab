@@ -1,5 +1,16 @@
 /* stylelint-disable selector-list-comma-newline-after */
-
+h1 a.blog-header-logo {
+  color: #d5daf4;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+h1 span {
+  font-weight: 800;
+  font-size: 3rem;
+  color: #0635C9;
+}
+.menu-link{
+  color: #0635C9;
+}
 .w-100 {
   width: 100% !important;
 }
