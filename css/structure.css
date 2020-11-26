@@ -253,3 +253,14 @@ footer {
 .mb-0 > a[aria-expanded="true"]:after {
   content: "\f077"; /* fa-chevron-up */
 }
+
+/* accordion (div collapsed) style */
+.panel-heading {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+}
+
+.info-text {
+	padding: 3em;
+}
